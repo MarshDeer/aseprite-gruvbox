@@ -1,20 +1,17 @@
 {
-  "name": "aseprite-theme",
-  "displayName": "Aseprite Default Theme",
-  "description": "Default Aseprite Pixel-Art Theme",
+  "name": "aseprite-gruvbox",
+  "displayName": "Gruvbox for Aseprite",
+  "description": "Gruvbox color scheme for Aseprite",
   "version": "1.0",
-  "author": { "name": "David Capello", "email": "davidcapello@gmail.com", "url": "http://davidcapello.com/" },
-  "contributors": [
-    { "name": "Ilija Melentijevic", "url": "http://ilkke.blogspot.com/" }
-  ],
+  "author": { "name": "Marsh Deer", "email": "", "url": "http://github.com/MarshDeer" },
   "publisher": "aseprite",
-  "license": "CC-BY-4.0",
+  "license": "ACSLv1.4",
   "categories": [
     "Themes"
   ],
   "contributes": {
     "themes": [
-      { "id": "default", "path": "." }
+      { "id": "gruvbox", "path": "." }
     ]
   }
 }
